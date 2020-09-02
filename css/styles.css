@@ -1,6 +1,4 @@
-/* #nav-list {
-  margin-top: 10px;
-} */
+
 .row {
     margin-right: -15px;
     margin-left: -15px;
@@ -12,17 +10,11 @@
     color: black;
 }
 
-/* #nav-list a {
-  color: #951C49;
-  /* text-align: center; */
-} */
 #nav-list a:hover {
   background: #E7E7E7;
 }
 
 #nav-list li {
-  /* background-color: white; */
-  border: 1px solid red;
   text-align: center;
 }
 #nav-list span {
@@ -48,6 +40,10 @@
 }
 .menu-classt{
   background-color: #E7E7E7;
+  padding: 10px;
+}
+.menu-classt a{
+  text-decoration: underline;;
 }
 .heaer-class{
   font-weight: bold;
